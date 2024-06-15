@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.faq-page {
+  background-image: url("../public/background-pattern-desktop.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.faq-container {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+}
+
+.faq-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.faq-header-text {
+  font-family: "Work Sans", sans-serif;
+}
+
+.dkfjsdklfj {
+  font-size: x-large;
+}
