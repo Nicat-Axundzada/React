@@ -1,8 +1,9 @@
-import Faq from "./pages/Faq";
+import Faqs from "./pages/Faqs";
+
 function App() {
   return (
     <>
-      <Faq />
+      <Faqs />
     </>
   );
 }
